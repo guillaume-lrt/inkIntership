@@ -1,0 +1,11 @@
+body { 
+    margin: 0;
+    background-image: url("spaceInk_bigger.png");
+    /* background-size: 75%; */
+    background-repeat: no-repeat;
+    overflow: scroll;
+}
+svg{
+    user-select: none;
+    touch-action: none;
+}
