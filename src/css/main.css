@@ -3,7 +3,9 @@ body {
     background-image: url("spaceInk_bigger.png");
     /* background-size: 75%; */
     background-repeat: no-repeat;
-    overflow: scroll;
+    width: 1800;
+    height: 2000;
+    overflow: auto;
 }
 svg{
     user-select: none;
